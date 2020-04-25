@@ -1,6 +1,6 @@
 ![logo](assets/images/tech.png)
 
-> To make seemless web development.
+> To make web development seemless.
 
 - 🚀 Secure Shell Accss(SSH)
 - ⚡️️ Performance Optimization Tools

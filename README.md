@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="Technology" width="400px" src="/assets/images/tech.png" />
 </p>
-<h2 align="center">To make seemless web devlopment</h2>
+<h2 align="center">To make web devlopment seemless</h2>
 
 ---
 
