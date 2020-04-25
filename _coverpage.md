@@ -7,7 +7,7 @@
 - 💎 Testing
 - 🔥 Security
 - 📼 Code Analysis
-- ⏱ Docker
+- ⏱ Docker:
 - ⚡️ Redis
 - 🚛 Sessions + JWT
 - 🚀 AWS
