@@ -3,12 +3,12 @@
 > To make web development seemless.
 
 - 🚀 Secure Shell Accss(SSH)
-- ⚡️️ Performance Optimization Tools
+- ⚡ Performance Optimization Tools
 - 💎 Testing
 - 🔥 Security
 - 📼 Code Analysis
 - ⏱ Docker:
-- ⚡️ Redis
+- ⚡ Redis
 - 🚛 Sessions + JWT
 - 🚀 AWS
 - 🧩 CI/CD
