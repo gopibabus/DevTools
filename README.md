@@ -1,13 +1,18 @@
 <p align="center">
   <img alt="Technology" width="400px" src="/assets/images/tech.png" />
 </p>
-<h2 align="center">Record, Replay, and memorize Technology</h2>
+<h2 align="center">To make seemless web devlopment</h2>
 
 ---
 
-## Why Technology?
+## Why Develpment Tools?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra mauris in aliquam sem. Sit amet est placerat in. Sit amet est placerat in egestas erat imperdiet. Elit at imperdiet dui accumsan sit amet nulla facilisi morbi. Egestas erat imperdiet sed euismod nisi. 
+Web Development Tools help the developers to work with a variety of technologies. Web Development Tools should be able to provide faster mobile development at lower costs.
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
-- Sit amet est placerat in. Sit amet est placerat in egestas erat imperdiet. 
+* Chrome DevTools
+* Sass
+* Grunt
+* GitHub
+* NPM
+* Visual Studio Code
+* SSH etc.,

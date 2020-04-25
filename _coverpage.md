@@ -1,16 +1,20 @@
 ![logo](assets/images/tech.png)
 
-> Record, Replay, and memorize Technology
+> To make seemless web development.
 
-- 🚀 Node & Browser Support
-- ⚡️️ Simple, Powerful, & Intuitive API
-- 💎 First Class Mocha & QUnit Test Helpers
-- 🔥 Intercept, Pass-Through, and Attach Events
-- 📼 Record to Disk or Local Storage
-- ⏱ Slow Down or Speed Up Time
+- 🚀 Secure Shell Accss(SSH)
+- ⚡️️ Performance Optimization Tools
+- 💎 Testing
+- 🔥 Security
+- 📼 Code Analysis
+- ⏱ Docker
+- ⚡️ Redis
+- 🚛 Sessions + JWT
+- 🚀 AWS
+- 🧩 CI/CD
 
 <div class="buttons">
-  <a href="https://github.com/gopibabus/DocTemplate/" target="_blank"><span>GitHub</span></a>
+  <a href="https://github.com/gopibabus/DevTools/" target="_blank"><span>GitHub</span></a>
   <a href="#/README"><span>Get Started</span></a>
 </div>
 
