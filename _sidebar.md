@@ -9,12 +9,16 @@
   - [Introduction](performance/intro_performance.md)
   - [N/W Optimizations](performance/network_performance.md)
   - [Critical Render Path](performance/path_performance.md)
+  - [Other Optimization Techniques](performance/others.md)
 
 -  React + Redux + Module Bundling
 
-  - [Introduction](intro_performance.md)
-  - [Internals](internals_performance.md)
-  - [Practice](practice_performance.md)
+  - [Introduction](react/intro_react.md)
+  - [React](react/react.md)
+  - [Upgrading React App](react/upgrade_react.md)
+  - [Error handling](react/error_handling.md)
+  - [Redux with React](react/redux.md)
+  - [Mobule Bundling](react/webpack.md)
 
 -  Testing
 
