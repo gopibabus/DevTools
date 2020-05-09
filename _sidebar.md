@@ -25,7 +25,7 @@
 -  Testing
 
   - [Introduction](testing/intro.md)
-  - [Internals](testing/internals.md))
+  - [Internals](testing/internals.md)
 
 -  Typescript
 
