@@ -10,6 +10,8 @@
   - [N/W Optimizations](performance/network_performance.md)
   - [Critical Render Path](performance/path_performance.md)
   - [Other Optimization Techniques](performance/others.md)
+  - [Optimizing Code](performance/code.md)
+  - [PWA](performance/pwa.md)
 
 -  React + Redux + Module Bundling
 
@@ -22,9 +24,8 @@
 
 -  Testing
 
-  - [Introduction](intro_performance.md)
-  - [Internals](internals_performance.md)
-  - [Practice](practice_performance.md)
+  - [Introduction](testing/intro.md)
+  - [Internals](testing/internals.md))
 
 -  Typescript
 
