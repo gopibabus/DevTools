@@ -1,6 +1,6 @@
 # 🔥 Redis
 
-> Redis is a NoSQL(**‘Not only SQL’**) and it is an in-memory database (**IMDB**).
+> Redis is a NoSQL(**‘Not only SQL’**) key-value store database and it is an in-memory database (**IMDB**).
 
 ## ⚡in-memory Database
 
@@ -38,6 +38,8 @@
 
 ## ⚡How IMDB used in Realworld applications?
 
+?> **Redis** is frequently used as **cache** and as **secondary database** to support primary database.
+
 <img src="./assets/images/imdb1.png" alt="imdb1" width="700">
 
 > User data is stored in main memory of our machine on successful user requests. All user transactions are stored in **Transaction Log**.
@@ -46,6 +48,8 @@
 
 > After specified amount of time, all user transactions are persisted in databases(MySQL, PostgreSQL) that use disk storage. In this way we can use in-memory databases to persists data efficiently.
 
+[🌐 Reference](https://medium.com/@chathuranga94/introduction-to-redis-348d9ccbfd0d)
+
 [🌐 Reference](https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1)
 
 [🌐 Redis application caching](https://redislabs.com/redis-enterprise/use-cases/caching/)
@@ -53,3 +57,5 @@
 [🌐 Redis Session Management](https://redislabs.com/redis-enterprise/use-cases/session-management/)
 
 [▶ How to Cache web application using Redis](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
+
+[🌐 Redis Clients](https://redis.io/clients)
