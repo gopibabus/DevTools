@@ -59,9 +59,7 @@
 
 -  Redis
 
-  - [Introduction](intro_performance.md)
-  - [Internals](internals_performance.md)
-  - [Practice](practice_performance.md)
+  - [Introduction](redis/intro.md)
 
 -  Sessions + JWT
 
