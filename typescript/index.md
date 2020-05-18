@@ -1,5 +1,10 @@
 # 🔥TypeScript
 
+> **TypeScript** is a typed superset of JavaScript compiled to JavaScript. In other words, TypeScript is JavaScript plus some additional features.
+
+<img src="./assets/images/ts_js.png" alt="Typescript" width="400">
+
+
 ## ⚡Types of Programming Languages
 
 <img src="./assets/images/static_dynamic.png" alt="Typescript">
