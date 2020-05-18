@@ -27,3 +27,27 @@ When you try to update the DOM in React:
 
 ### ✳create-react-app
 
+<img src="./assets/images/create-react-app.png" alt="create-react-app" width="700">
+
+**Create React App** is a comfortable environment for learning React, and is the best way to start building a new single-page application in **React**.
+
+It sets up your development environment so that you can use the latest JavaScript features, provides a nice developer experience, and optimizes your app for production. You’ll need to have **Node >= 8.10** and **npm >= 5.6** on your machine.
+
+**Create React App** doesn’t handle backend logic or databases; it just creates a frontend build pipeline, so you can use it with any backend you want. You don’t need to install or configure tools like **webpack** or **Babel**. They are preconfigured and hidden so that you can focus on the code.
+
+**What comes with create-react-app?**
+
+* A recommended starting folder structure
+* A solid build setup with webpack and Babel (that you don't have to worry about setting up)
+* Scripts to run our React application
+* Extensibility
+
+[🌐 create-react-app Documentation](https://create-react-app.dev/docs/getting-started/)
+
+To Quick start React application usning **create-react-app**:
+
+```bash
+npx create-react-app my-app
+cd my-app
+npm start
+```

@@ -1,0 +1,1 @@
+# 🔥SPA vs Server Side Rendering

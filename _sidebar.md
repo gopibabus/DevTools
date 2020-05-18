@@ -1,11 +1,9 @@
 - SSH
-
   - [Introduction](ssh/intro_ssh.md)
   - [Internals](ssh/internals_ssh.md)
   - [Practice](ssh/practice_ssh.md)
 
 - Performance
-
   - [Introduction](performance/intro_performance.md)
   - [N/W Optimizations](performance/network_performance.md)
   - [Critical Render Path](performance/path_performance.md)
@@ -14,7 +12,6 @@
   - [PWA](performance/pwa.md)
 
 -  React + Redux + Module Bundling
-
   - [Introduction](react/intro_react.md)
   - [React](react/react.md)
   - [Upgrading React App](react/upgrade_react.md)
@@ -23,58 +20,44 @@
   - [Mobule Bundling](react/webpack.md)
 
 -  Testing
-
   - [Introduction](testing/intro.md)
-  - [Internals](testing/internals.md)
 
 -  Typescript
-
-  - [Introduction](intro_performance.md)
-  - [Internals](internals_performance.md)
-  - [Practice](practice_performance.md)
+  - [Introduction](typescript/index.md)
+  - [Syntax](typescript/syntax.md)
 
 -  SPA vs Server Side Rendering
-
-  - [Introduction](intro_performance.md)
-  - [Internals](internals_performance.md)
-  - [Practice](practice_performance.md)
+  - [Introduction](spa_ssr/index.md)
 
 -  Security
-
   - [Introduction](intro_performance.md)
   - [Internals](internals_performance.md)
   - [Practice](practice_performance.md)
 
 -  Code Analysis
-
   - [Introduction](intro_performance.md)
   - [Internals](internals_performance.md)
   - [Practice](practice_performance.md)
 
 -  Docker
-
   - [Introduction](intro_performance.md)
   - [Internals](internals_performance.md)
   - [Practice](practice_performance.md)
 
 -  Redis
-
   - [Introduction](redis/intro.md)
 
 -  Sessions + JWT
-
   - [Introduction](intro_performance.md)
   - [Internals](internals_performance.md)
   - [Practice](practice_performance.md)
 
 -  AWS
-
   - [Introduction](intro_performance.md)
   - [Internals](internals_performance.md)
   - [Practice](practice_performance.md)
 
 -  CI/CD
-
   - [Introduction](intro_performance.md)
   - [Internals](internals_performance.md)
   - [Practice](practice_performance.md)

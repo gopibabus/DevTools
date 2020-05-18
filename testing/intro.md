@@ -11,3 +11,9 @@
 * ⚙ Unit Tests
 * ⚙ Integration Tests
 * ⚙ Automatic Tests
+
+## ⚡Testing Frameworks
+
+<img src="./assets/images/test_frameworks.png" alt="testing" width="700">
+
+?> We implemented unit tests using JEST framework. [Test pure Javascript](https://github.com/gopibabus/JestTemplate), [Test React App](https://github.com/gopibabus/React-Redux)
