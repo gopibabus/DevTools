@@ -28,7 +28,7 @@
 ## ⚡SSR - React Libraries
 
 ### ✳Gatsby
-[📚Documentation](https://nextjs.org/docs/getting-started)
+> [📚Documentation](https://www.gatsbyjs.org/docs/quick-start/)
 
 ### ✳Next.js
 > [📚Documentation](https://nextjs.org/docs/getting-started)
