@@ -42,9 +42,7 @@
   - [Data Management](security/data_management.md)
 
 -  Code Analysis
-  - [Introduction](intro_performance.md)
-  - [Internals](internals_performance.md)
-  - [Practice](practice_performance.md)
+  - [Introduction](code/index.md)
 
 -  Docker
   - [Introduction](intro_performance.md)
