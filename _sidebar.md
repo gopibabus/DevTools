@@ -30,9 +30,16 @@
   - [Introduction](spa_ssr/index.md)
 
 -  Security
-  - [Introduction](intro_performance.md)
-  - [Internals](internals_performance.md)
-  - [Practice](practice_performance.md)
+  - [Introduction](security/intro.md)
+  - [Injection Attacks](security/injections.md)
+  - [3rdparty](security/3rdparty.md)
+  - [Logging](security/logging.md)
+  - [HTTPS Everywhere](security/https.md)
+  - [XSS & CSRF](security/xss_csrf.md)
+  - [Code Secrets](security/code_secrets.md)
+  - [Secure Headers](security/secure_headers.md)
+  - [Access Control](security/access_control.md)
+  - [Data Management](security/data_management.md)
 
 -  Code Analysis
   - [Introduction](intro_performance.md)
