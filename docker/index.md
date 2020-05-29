@@ -2,6 +2,16 @@
 
 <img src="./assets/images/docker.png" alt="docker" width="400">
 
+### ✳What is a Docker?
+
+?> **Docker** provides the ability to package and run an application in a loosely isolated environment called a **container**. The isolation and security allow you to run many containers simultaneously on a given host.
+
+## ✳What is a Container?
+
+?> A standardized unit of software.
+
+[🌐 Container Documentation](https://www.docker.com/resources/what-container)
+
 ### ✳How to create sample docker file(Dockerfile)?
 
 ```yaml
