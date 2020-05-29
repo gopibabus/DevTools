@@ -45,9 +45,7 @@
   - [Introduction](code/index.md)
 
 -  Docker
-  - [Introduction](intro_performance.md)
-  - [Internals](internals_performance.md)
-  - [Practice](practice_performance.md)
+  - [Introduction](docker/index.md)
 
 -  Redis
   - [Introduction](redis/intro.md)
