@@ -56,9 +56,7 @@
 - [Introduction](sessions/intro.md)
 
 - AWS
-- [Introduction](intro_performance.md)
-- [Internals](internals_performance.md)
-- [Practice](practice_performance.md)
+- [Introduction](aws/intro.md)
 
 - CI/CD
 - [Introduction](intro_performance.md)
