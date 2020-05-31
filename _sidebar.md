@@ -16,6 +16,7 @@
   - [Database Scaling](performance/db.md)
   - [Caching](performance/caching.md)
   - [Load Balancing](performance/load_balancing.md)
+  - [CI/CD](performance/cicd.md)
 
 - React + Redux + Module Bundling
 - [Introduction](react/intro_react.md)
