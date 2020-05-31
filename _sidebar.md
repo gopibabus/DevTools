@@ -12,6 +12,10 @@
   - [Other Optimization Techniques](performance/others.md)
   - [Optimizing Code](performance/code.md)
   - [PWA](performance/pwa.md)
+  - [CDN & GZIP](performance/cdn.md)
+  - [Database Scaling](performance/db.md)
+  - [Caching](performance/caching.md)
+  - [Load Balancing](performance/load_balancing.md)
 
 - React + Redux + Module Bundling
 - [Introduction](react/intro_react.md)
