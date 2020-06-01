@@ -71,6 +71,10 @@ In order to deploy our applications using Lambda, we use [Serverless](https://gi
 
 [🌐 AWS Documentation](https://aws.amazon.com/dynamodb/)
 
+### ✳List of AWS Services
+
+> [Complete List of AWS Services](https://adayinthelifeof.nl/2020/05/20/aws.html)
+
 ### ✳AWS Flow
 
 > We can use Amazon web services according to our business model. Following one is one of the examples:
