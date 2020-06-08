@@ -68,4 +68,7 @@
 - [Internals](internals_performance.md)
 - [Practice](practice_performance.md)
 
+- Log Management(Machine Data)
+- [Introduction](log/resources.md)
+
 - [Contributing](contribution/index.md)

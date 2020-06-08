@@ -80,3 +80,11 @@ In order to deploy our applications using Lambda, we use [Serverless](https://gi
 > We can use Amazon web services according to our business model. Following one is one of the examples:
 
 <img src="./assets/images/aws_flow.png" alt="aws flow" width="700">
+
+### ⚡Test AWS Services Offline
+
+<img src="./assets/images/localstack.png" alt="localstack" width="300">
+
+?> **LocalStack** provides an easy-to-use test/mocking framework for developing Cloud applications. It spins up a testing environment on your local machine that provides the same functionality and APIs as the real AWS cloud environment.
+
+> [🌐 LocalStack](https://localstack.cloud/)

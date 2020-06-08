@@ -8,12 +8,16 @@
 
 <img src="./assets/images/tests_types.png" alt="testing">
 
-* ⚙ Unit Tests
-* ⚙ Integration Tests
-* ⚙ Automatic Tests
+- ⚙ Unit Tests
+- ⚙ Integration Tests
+- ⚙ Automatic Tests
 
 ## ⚡Testing Frameworks
 
 <img src="./assets/images/test_frameworks.png" alt="testing" width="700">
 
 ?> We implemented unit tests using JEST framework. [Test pure Javascript](https://github.com/gopibabus/JestTemplate), [Test React App](https://github.com/gopibabus/React-Redux)
+
+<img src="./assets/images/jest_ui.png" alt="Jest" width="700">
+
+?> [🚀 Zero Config UserInterface for Jest Test Cases](https://github.com/Raathigesh/majestic)
