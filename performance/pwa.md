@@ -5,14 +5,15 @@
 ?> **PWAs** are web applications that function entirely like a native mobile app–with integrations to phone hardware, the ability to access it via a home screen icon, and offline capabilities–but doesn’t require an app store download. Thanks to backend technical elements like **service workers, web app manifests, app shells**, and more
 
 ### ✳Uses of PWAs
-* Integrates with native smartphone functionality
-* Works on all form factors and operating systems
-* Installable to home screen
-* Works in low to no connectivity
-* Loads at lightning fast speeds
-* Searchable, which drives higher SEO ranking
-* Takes up a virtually no phone storage
-* Always served via HTTPS
+
+- Integrates with native smartphone functionality
+- Works on all form factors and operating systems
+- Installable to home screen
+- Works in low to no connectivity
+- Loads at lightning fast speeds
+- Searchable, which drives higher SEO ranking
+- Takes up a virtually no phone storage
+- Always served via HTTPS
 
 ### ✳Components of PWA
 
@@ -29,5 +30,7 @@
 > [🌐 Curated list of PWAs](https://appsco.pe/)
 
 > [🌐 What PWAs can do?](https://whatwebcando.today/)
+
+> [🌐 Service Worker Lifecycle Explained?](https://felixgerschau.com/service-worker-lifecycle-update/)
 
 > [🌐 chrome extension(lighthouse) to test performance of our PWA](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)
