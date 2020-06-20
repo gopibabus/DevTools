@@ -104,4 +104,6 @@
 - Nginx will handle all requests it can and pass on the ones that it has no native ability to serve. By cutting down on the requests the Apache server is asked to handle.
 - This configuration also allows you to scale out by adding additional backend servers as necessary.
 
-> [🌐 Reference](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
+> [🌐 Document Reference of above content](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
+
+> [🌐 Video Reference of above content](https://youtu.be/ZhfpYgl8BtQ)
