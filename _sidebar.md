@@ -73,6 +73,7 @@
 
 - Web Servers
   - [HTTP1 vs HTTP2](servers/http.md)
+  - [HTTP Status Codes](servers/http_status.md)
   - [Apache vs Nginx](servers/diff.md)
   - [Apache Conf](servers/apache.md)
   - [Nginx Conf](servers/nginx.md)
