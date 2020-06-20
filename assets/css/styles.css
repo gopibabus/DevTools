@@ -3,17 +3,24 @@
 /* Hide php tag in code block */
 #main > pre::after {
   display: none;
-} 
-#main > pre, #main > pre > code {
-  background-color: #2e2e2e; 
+}
+#main > pre,
+#main > pre > code {
+  background-color: #2e2e2e;
 }
 #main > pre > code {
   color: white;
 }
-.sidebar, .sidebar-toggle {
+.sidebar,
+.sidebar-toggle {
   background-color: rgb(228, 228, 228);
 }
 
 strong {
-  color: red!important;
+  color: red !important;
+}
+
+span.scroll-to-top {
+  background: red !important;
+  color: white !important;
 }

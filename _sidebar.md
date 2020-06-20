@@ -72,8 +72,10 @@
   - [Introduction](log/resources.md)
 
 - Web Servers
-  - [Apache](servers/apache.md)
-  - [Nginx](servers/nginx.md)
-  - [Difference](servers/diff.md)
+  - [HTTP1 vs HTTP2](servers/http.md)
+  - [Apache vs Nginx](servers/diff.md)
+  - [Apache Conf](servers/apache.md)
+  - [Nginx Conf](servers/nginx.md)
+
 
 - [Contributing](contribution/index.md)
