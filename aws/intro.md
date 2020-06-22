@@ -75,6 +75,38 @@ In order to deploy our applications using Lambda, we use [Serverless](https://gi
 
 > [Complete List of AWS Services](https://adayinthelifeof.nl/2020/05/20/aws.html)
 
+### ✳AWS Elastic Load Balancing
+
+<img src="./assets/images/load-balancer.png" alt="load balancer" width="300">
+
+?> **Elastic Load Balancing** automatically distributes traffic across multiple targets – Amazon EC2 instances, containers and IP addresses – in a single Availability Zone or multiple Availability Zones. Elastic Load Balancing can detect unhealthy targets, stop sending traffic to them, and then spread the load across the remaining healthy targets.
+
+?> You can select the appropriate load balancer based on your application needs.
+
+Elastic Load Balancing supports three types of load balancers:
+
+1. [Application Load Balancers](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html)
+2. [Network Load Balancers](https://docs.aws.amazon.com/elasticloadbalancing/latest/network/introduction.html)
+3. [Classic Load Balancers](https://docs.aws.amazon.com/elasticloadbalancing/latest/classic/introduction.html)
+
+**Classic Load Balancer**
+
+<img src="./assets/images/classic.png" alt="load balancer" width="300">
+
+?> A load balancer distributes incoming application traffic across multiple EC2 instances in multiple Availability Zones. This increases the fault tolerance of your applications
+
+**Application Load Balancers**
+
+<img src="./assets/images/application.png" alt="load balancer" width="300">
+
+?> An Application Load Balancer **functions at the application layer**, the seventh layer of the Open Systems Interconnection (OSI) model. After the load balancer receives a request, it evaluates the listener rules in priority order to determine which rule to apply, and then selects a target from the target group for the rule action. You can configure listener rules to route requests to different target groups based on the content of the application traffic. Routing is performed independently for each target group, even when a target is registered with multiple target groups. You can configure the routing algorithm used at the target group level. The default routing algorithm is round robin; alternatively, you can specify the least outstanding requests routing algorithm.
+
+**Network Load Balancers**
+
+?> A Network Load Balancer functions at the fourth layer of the Open Systems Interconnection (OSI) model. It can handle millions of requests per second. After the load balancer receives a connection request, it selects a target from the target group for the default rule. It attempts to **open a TCP connection to the selected target** on the port specified in the listener configuration.
+
+
+
 ### ✳AWS Flow
 
 > We can use Amazon web services according to our business model. Following one is one of the examples:

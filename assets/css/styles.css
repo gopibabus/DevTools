@@ -11,6 +11,7 @@
 #main > pre > code {
   color: white;
 }
+
 .sidebar,
 .sidebar-toggle {
   background-color: rgb(228, 228, 228);
@@ -23,4 +24,19 @@ strong {
 span.scroll-to-top {
   background: red !important;
   color: white !important;
+}
+
+/* Table Styles */
+th {
+  background-color: #0b6e84;
+  color: #fff;
+  word-spacing: 8px;
+}
+td {
+  word-spacing: 3px;
+}
+td + td {
+  background-color: #2e2e2e;
+  color: #fff;
+  word-spacing: 8px;
 }

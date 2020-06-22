@@ -60,8 +60,8 @@
 - Sessions + JWT
   - [Introduction](sessions/intro.md)
 
-- AWS
-  - [Introduction](aws/intro.md)
+- Version Control
+  - [Git](git/index.md)
 
 - CI/CD
   - [Introduction](intro_performance.md)
@@ -77,6 +77,10 @@
   - [Apache vs Nginx](servers/diff.md)
   - [Apache Conf](servers/apache.md)
   - [Nginx Conf](servers/nginx.md)
+
+- AWS
+  - [Introduction](aws/intro.md)
+  - [AWS Databases](aws/databases.md)
 
 
 - [Contributing](contribution/index.md)
