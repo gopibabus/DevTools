@@ -71,9 +71,12 @@
 - Log Management(Machine Data)
   - [Introduction](log/resources.md)
 
-- Web Servers
+- Communication Protocols
+  - [OSI Model](protocols/osi.md)
   - [HTTP1 vs HTTP2](servers/http.md)
   - [HTTP Status Codes](servers/http_status.md)
+
+- Web Servers
   - [Apache vs Nginx](servers/diff.md)
   - [Apache Conf](servers/apache.md)
   - [Nginx Conf](servers/nginx.md)
