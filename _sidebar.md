@@ -75,6 +75,8 @@
   - [OSI Model](protocols/osi.md)
   - [HTTP1 vs HTTP2](servers/http.md)
   - [HTTP Status Codes](servers/http_status.md)
+  - [TCP vs UDP](servers/tcp.md)
+  - [gRPC](protocols/grpc.md)
 
 - Web Servers
   - [Apache vs Nginx](servers/diff.md)
