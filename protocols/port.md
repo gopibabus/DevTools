@@ -1,8 +1,10 @@
-# 🔥Port Forwarding
+# 🔥Port Forwarding - Expose Local Apps
 
 <img alt="port forwarding" width="800px" src="/assets/images/port_forwarding.png" />
 
-### 🤷‍♂️How to expose website running on our machine to internet?
+## ⚡How to expose website running on our machine to internet?
+
+### ❇Using Router/Modem
 
 ?> **NOTE:** For the Router and devices connected to Router have both internal and public ip addresses.
 
