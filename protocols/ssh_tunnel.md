@@ -24,7 +24,7 @@ Following are the steps to install and configure **expose client** on our machin
 2. Visit dashboard area on the website.
 3. Click Expose **License & Download**.
 4. Copy expose token(********-****-****-****-************).
-5. Install expose client with help our composer
+5. Install expose client with help of [composer](https://getcomposer.org/download/)
 
 ```bash
 composer global require beyondcode/expose
