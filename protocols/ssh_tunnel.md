@@ -52,7 +52,7 @@ expose share localhost:5501
 
 <img src="./assets/images/expose-share.png" alt="Expose" width="700">
 
-?> There are many cool things we can do with **Expose**. We can consigure our own server. We can access dashboards on server side and client side to monitor requests. We can provide authentication and many more.
+?> There are many cool things we can do with **Expose**. We can configure our own server. We can access dashboards on server side and client side to monitor requests. We can provide authentication and many more.
 
 > [🌐 Official Documentation](https://beyondco.de/docs/expose/introduction)
 
