@@ -8,6 +8,8 @@
 
 ## ⚡How to use Expose?
 
+<img src="./assets/images/expose-1.png" alt="Expose" width="700">
+
 ?> **Expose** is a multiplatform **tunnelling, reverse proxy software** that establishes secure tunnels from a public endpoint such as internet to a locally running network service while capturing all traffic for detailed inspection and replay.
 
 ?> In simple words, we can **expose web apps** running on our local machine to internet using randomly generated **expose** URL.
