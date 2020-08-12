@@ -70,6 +70,7 @@
 
 - Log Management(Machine Data)
   - [Introduction](log/resources.md)
+  - [splunk](log/splunk.md)
 
 - Communication Protocols
   - [OSI Model](protocols/osi.md)
@@ -90,5 +91,13 @@
   - [Introduction](aws/intro.md)
   - [AWS Databases](aws/databases.md)
 
+- Utilities
+  - [curl](utils/curl.md)
+  - [wget](utils/wget.md)
+  - [emmet](utils/emmet.md)
+  - [postman](utils/postman.md)
+  - [npm](utils/npm.md)
+  - [yarn](utils/yarn.md)
+  - [homebrew](utils/homebrew.md)
 
 - [Contributing](contribution/index.md)
