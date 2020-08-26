@@ -25,6 +25,7 @@
 ?> It is similar to [DigitalOcean Droplets](https://www.digitalocean.com/products/droplets/)
 
 [🌐 AWS Documentation](https://aws.amazon.com/ec2/)
+[🌐 AWS S3 - All You Need To Know About This Service](https://catalins.tech/aws-s3-all-you-need-to-know-about-this-service)
 
 ### ✳S3(Simple Storage Service)
 
@@ -33,7 +34,6 @@
 ?> **Amazon Simple Storage Service (Amazon S3)** is an object storage service that offers industry-leading scalability, data availability, security, and performance. This means customers of all sizes and industries can use it to store and protect any amount of data for a range of use cases, such as websites, mobile applications, backup and restore, archive, enterprise applications, IoT devices, and big data analytics.
 
 ?> It is similar to [DigitalOcean Spaces](https://www.digitalocean.com/products/spaces/)
-
 [🌐 AWS Documentation](https://aws.amazon.com/s3/)
 
 ### ✳Lambda
