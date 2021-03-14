@@ -3,6 +3,8 @@
 </p>
 <h2 align="center">To make web devlopment seemless</h2>
 
+> This Project is going to be a part of my Notion Notes and it is not publicly available.⛔️
+
 ---
 
 ## Why Develpment Tools?
